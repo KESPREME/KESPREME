@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=KESPREME&theme=default" alt="KESPREME" /></a>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=KESPREME&theme=darkhub" alt="KESPREME" /></a>
 </p>
 
 ---
@@ -61,11 +61,11 @@
 
 ### 📊 GitHub Stats
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESPREME&langs_count=8&theme=default" alt="KESPREME" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESPREME&langs_count=8&theme=tokyonight" alt="KESPREME" />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KESPREME&show_icons=true&locale=en&theme=default" alt="KESPREME" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KESPREME&show_icons=true&locale=en&theme=tokyonight" alt="KESPREME" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KESPREME&theme=default" alt="KESPREME" /></p>
+<p><img align="center" height="180em" src="https://streak-stats.demolab.com?user=KESPREME&theme=tokyonight" alt="KESPREME" /></p>
 
 ---
 
@@ -74,11 +74,11 @@
 <h3 align="center">Statistics</h3>
 <div align="center">
   <a href="https://github.com/KESPREME">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KESPREME&theme=blueberry" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KESPREME&theme=blueberry" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KESPREME&theme=blueberry" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KESPREME&theme=blueberry" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KESPREME&theme=blueberry" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KESPREME&theme=github_dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KESPREME&theme=github_dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KESPREME&theme=github_dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KESPREME&theme=github_dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KESPREME&theme=github_dark" height="180em" />
   </a>
 </div>
 
