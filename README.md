@@ -64,7 +64,9 @@
 ### ⚡ Contributions
 
 <p align="center">
-  <img src="https://jandee.vercel.app/KESPREME?scheme=dark&footer=false" alt="KESPREME's GitHub Contribution Graph" />
+  <em>
+    🚀 See my real-time contribution graph at the top of my <a href="https://github.com/KESPREME">GitHub profile</a>!
+  </em>
 </p>
 
 > **Tip:**  
