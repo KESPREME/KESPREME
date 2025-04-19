@@ -65,7 +65,8 @@
 
 <p align="center">
   <em>
-    🚀 See my real-time contribution graph at the top of my <a href="https://github.com/KESPREME">GitHub profile</a>!
+    🚀 My real-time contribution graph is visible at the top of this profile!<br>
+    (GitHub does not support embedding it in the README)
   </em>
 </p>
 
