@@ -84,4 +84,4 @@
 
 ---
 
-*Thanks for stopping by! Feel free to connect, collaborate, or just say hi.*
+*Thanks for stopping by! Feel free to connect, collaborate, or just say hi..*
