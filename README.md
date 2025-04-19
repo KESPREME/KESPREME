@@ -64,7 +64,7 @@
 ### ⚡ Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KESPREME&theme=tokyo-night&area=true" />
+  <img src="https://jandee.vercel.app/KESPREME?scheme=dark&footer=false" alt="KESPREME's GitHub Contribution Graph" />
 </p>
 
 > **Tip:**  
@@ -72,7 +72,7 @@
 > - Your commit email matches your GitHub account email  
 > - You're committing to the default branch (e.g., `main`)  
 > - The repository is public, or you have enabled "Include private contributions on my profile" in your GitHub settings  
-> [Learn more](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)[3][7][9]
+> [Learn more](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)
 
 ---
 
@@ -84,4 +84,4 @@
 
 ---
 
-*Thanks for stopping by! Feel free to connect, collaborate, or just say hi..*
+*Thanks for stopping by! Feel free to connect, collaborate, or just say hi.*
