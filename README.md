@@ -65,17 +65,15 @@
 
 <p align="center">
   <em>
-    🚀 My real-time contribution graph is visible at the top of this profile!<br>
+    🚀 My real-time contribution graph is always visible at the top of this profile!<br>
     (GitHub does not support embedding it in the README)
   </em>
 </p>
 
-> **Tip:**  
-> If your contributions aren't showing up, make sure:
-> - Your commit email matches your GitHub account email  
-> - You're committing to the default branch (e.g., `main`)  
-> - The repository is public, or you have enabled "Include private contributions on my profile" in your GitHub settings  
-> [Learn more](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)
+<!-- Optional: Add streak stats for a visual touch -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KESPREME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
