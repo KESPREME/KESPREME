@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KESPREME/KESPREME/main/assets/banner.png" alt="Nipun Gupta Banner" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Coding GIF" width="600"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Nipun Gupta</h1>
@@ -64,8 +64,15 @@
 ### ⚡ Contributions
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4.dev/api?username=KESPREME&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KESPREME&theme=tokyo-night&area=true" />
 </p>
+
+> **Tip:**  
+> If your contributions aren't showing up, make sure:
+> - Your commit email matches your GitHub account email  
+> - You're committing to the default branch (e.g., `main`)  
+> - The repository is public, or you have enabled "Include private contributions on my profile" in your GitHub settings  
+> [Learn more](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)[3][7][9]
 
 ---
 
