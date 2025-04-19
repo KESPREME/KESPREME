@@ -7,6 +7,16 @@
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=KESPREME&label=Profile%20views&color=0e75b6&style=flat" alt="KESPREME" />
+</p>
+
+<p align="left">
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=KESPREME&theme=default" alt="KESPREME" /></a>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - I'm a tech enthusiast diving deep into full-stack and cross-platform app development.  
@@ -51,29 +61,31 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KESPREME&show_icons=true&theme=tokyonight" />
-</p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESPREME&langs_count=8&theme=default" alt="KESPREME" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESPREME&layout=compact&theme=tokyonight" />
-</p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KESPREME&show_icons=true&locale=en&theme=default" alt="KESPREME" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KESPREME&theme=default" alt="KESPREME" /></p>
 
 ---
 
-### ⚡ Contributions
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <em>
-    🚀 My real-time contribution graph is always visible at the top of this profile!<br>
-    (GitHub does not support embedding it in the README)
-  </em>
-</p>
+<h3 align="center">Statistics</h3>
+<div align="center">
+  <a href="https://github.com/KESPREME">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KESPREME&theme=blueberry" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KESPREME&theme=blueberry" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KESPREME&theme=blueberry" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KESPREME&theme=blueberry" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KESPREME&theme=blueberry" height="180em" />
+  </a>
+</div>
 
-<!-- Optional: Add streak stats for a visual touch -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KESPREME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KESPREME&theme=github-compact"/>
 
 ---
 
